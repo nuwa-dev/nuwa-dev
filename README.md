@@ -13,6 +13,6 @@
 ## **Sie können alles in diesem Leben erreichen**
 
 ![Nuwa's github stats](https://github-readme-stats.vercel.app/api?username=sudis&show_icons=true&hide_title=true&theme=radical&text_color=AA00FF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=AA00FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
