@@ -8,7 +8,7 @@
 
 **EN:** Hi buddy, welcome. I don't share much on this github account. I __only share__ projects that interest me or my loved ones. I'm **manager** at a Discord Server called [Discord Developer](https://discord.gg/developer), if you wish, you can join us and contribute to the growth of our community. Other than that, you can reach me on Discord or Instagram.
 
-**TR:** Merhaba dostum, hoşgeldin. Bu github hesabı hakkında pek bir şey paylaşmıyorum. Sadece beni veya sevdiklerimi ilgilendiren projeleri __ paylaşıyorum__ [Discord Developer](https://discord.gg/developer) adında bir Discord Sunucusu **Benim Sunucum**, isterseniz bize katılabilir ve topluluğumuzun büyümesine katkıda bulunabilirsiniz. Bunun dışında bana Discord veya Instagram'dan da ulaşabilirsiniz.
+**TR:** Merhaba dostum, hoşgeldin. Bu github hesabı hakkında pek bir şey paylaşmıyorum. Sadece beni veya sevdiklerimi ilgilendiren projeleri **paylaşıyorum** [Discord Developer](https://discord.gg/developer) adında bir Discord Sunucusu **Benim Sunucum**, isterseniz bize katılabilir ve topluluğumuzun büyümesine katkıda bulunabilirsiniz. Bunun dışında bana Discord veya Instagram'dan da ulaşabilirsiniz.
 
 ## **Sie können alles in diesem Leben erreichen**
 
